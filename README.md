@@ -108,7 +108,7 @@ To get a local copy of the prototype up and running, follow these steps.
 
 ---
 
-## Team Code Benders
+## Team PDF
 
 * **Yaksh Maangat**
 * **Mahi Chaudhary**
